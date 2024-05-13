@@ -3,9 +3,10 @@
 **AIM:**<br>
 
 &emsp;&emsp;To design the following circuits using Cadence Virtuoso<br>
-&emsp;&emsp;&emsp;&emsp;1) Inverter<br>
-&emsp;&emsp;&emsp;&emsp;2) 2 Input NAND gate<br>
-&emsp;&emsp;&emsp;&emsp;3) 2 Input NOR gate<br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;1) Inverter<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;2) 2 Input NAND gate<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;3) 2 Input NOR gate<br>
 
 **SOFTWARE REQUIRED:**<br>
 
