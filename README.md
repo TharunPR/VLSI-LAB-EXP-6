@@ -1,4 +1,4 @@
-#  ANALOG DESIGN OF INVERTER, NOR AND NAND GATE USING VIRTUOSO
+#  SCHEMATIC ENTRY AND CIRCUIT SIMULATION OF CMOS INVERTER, NOR AND NAND GATE USING VIRTUOSO
 
 **AIM:** To design the following circuits using Cadence Virtuoso<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;1) Inverter<br>
@@ -113,8 +113,8 @@
 **Specifications:**  
 &emsp;&emsp;&emsp;&emsp;Vpulse A V1 = 0,	V2 = 1,Vpulse B V1 = 0,	V2 = 1<br>
 &emsp;&emsp;&emsp;&emsp;Vdc	= 1<br>
-&emsp;&emsp;&emsp;&emsp;For Vpulse A td = 0,tr = tf = 1 n, ton = 200n ,T = 100n<br>
-&emsp;&emsp;&emsp;&emsp;For Vpulse B td = 0,tr = tf = 1 n, ton = 100n ,T = 50n<br>
+&emsp;&emsp;&emsp;&emsp;For Vpulse A td = 0,tr = tf = 1 n, ton = 100n ,T = 200n<br>
+&emsp;&emsp;&emsp;&emsp;For Vpulse B td = 0,tr = tf = 1 n, ton = 50n ,T = 100n<br>
 
 **OUTPUT:**
 **Simulation Settings**<br>
@@ -131,8 +131,8 @@
 **Specifications:** 
 &emsp;&emsp;&emsp;&emsp;Vpulse A V1 = 0,	V2 = 1,Vpulse B V1 = 0,	V2 = 1<br>
 &emsp;&emsp;&emsp;&emsp;Vdc	= 1<br>
-&emsp;&emsp;&emsp;&emsp;For Vpulse A td = 0,tr = tf = 1 n, ton = 200n ,T = 100n<br>
-&emsp;&emsp;&emsp;&emsp;For Vpulse B td = 0,tr = tf = 1 n, ton = 100n ,T = 50n<br>
+&emsp;&emsp;&emsp;&emsp;For Vpulse A td = 0,tr = tf = 1 n, ton = 100n ,T = 200n<br>
+&emsp;&emsp;&emsp;&emsp;For Vpulse B td = 0,tr = tf = 1 n, ton = 50n ,T = 100n<br>
 
 **OUTPUT:**
 **Simulation Settings**<br>
